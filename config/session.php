@@ -155,7 +155,7 @@ return [
     |
     */
 
-    'domain' => env('SESSION_DOMAIN', null),
+    'domain' => 'https://phplaravel-932207-3236365.cloudwaysapps.com',
 
     /*
     |--------------------------------------------------------------------------
